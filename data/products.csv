@@ -1,0 +1,8 @@
+product_id,product_name,brand_id,category_id,vendor_id,price
+P001,iPhone 15 Pro,B001,C001,V001,999.00
+P002,MacBook Air M3,B001,C001,V001,1099.00
+P003,AirPods Max,B001,C002,V002,549.00
+P004,Galaxy S24 Ultra,B002,C001,V002,1199.00
+P005,WH-1000XM5 Headphones,B003,C002,V001,399.00
+P006,Organic Honey Crisp Apples,B004,C003,V003,2.99
+P007,banana,B005,C004,V004,0.99

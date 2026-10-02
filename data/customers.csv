@@ -1,0 +1,5 @@
+customer_id,customer_name,email,city
+CU001,Rahul,rahul@example.com,Mumbai
+CU002,Anita,anita@example.com,Delhi
+CU003,John Doe,john@example.com,New York
+CU004,banana,banana@example.com,Banana City
